@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Latest news</title>
+		<link>https://nemanjamaksimovic.000webhostapp.com/</link>
+		<description>
+			News about new projects
+		</description>
+		
+		<item>
+			<title>New project</title>
+			<link>https://nemanjamaksimovic.000webhostapp.com/</link>
+			<description>
+				Responsive website
+			</description>
+		</item>
+	</channel>
+</rss>
